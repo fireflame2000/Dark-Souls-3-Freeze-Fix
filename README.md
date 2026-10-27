@@ -1,6 +1,6 @@
 # Dark Souls III CPU 0 launcher
 
-On some PCs Dark Souls III overloads CPU 0 and freezes at random. Unticking CPU 0 in the game's affinity fixes it, but Windows forgets that on every launch. This launcher does it for you, only when you use it.
+On some PCs Dark Souls III has issues with CPU 0 and freezes at random. Unticking CPU 0 in the game's affinity fixes it, but Windows forgets that on every launch. This launcher does it for you, only when you use it.
 
 ## Use
 
