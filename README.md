@@ -2,7 +2,7 @@
 
 On some PCs Dark Souls III has issues with CPU 0 and freezes at random. Unticking CPU 0 in the game's affinity fixes it, but Windows forgets that on every launch. This launcher does it for you, only when you use it.
 
-# Symptoms
+## Symptoms
 
 This launcher may help if:
 
@@ -14,7 +14,7 @@ The freezing occurs intermittently.
 
 Manually removing CPU 0 from the game's affinity fixes the issue.
 
-# Tested System
+## Tested System
 
 CPU: Ryzen 7 5800X3D 
 GPU: RTX 5070 Ti 
