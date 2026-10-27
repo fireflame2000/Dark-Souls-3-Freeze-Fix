@@ -16,8 +16,10 @@ Manually removing CPU 0 from the game's affinity fixes the issue.
 
 ## Tested System
 
-CPU: Ryzen 7 5800X3D 
-GPU: RTX 5070 Ti 
+CPU: Ryzen 7 5800X3D
+
+GPU: RTX 5070 Ti
+
 OS: Windows 11
 
 Your results may vary on other hardware.
