@@ -1,0 +1,9 @@
+This script fixes an issue with Dark Souls III where the games freezes for 5 - 10 seconds randomly.
+
+The script opens the game, waits for it to start, then sets the CPU affinity settings in Windows to disable use of CPU 0.
+
+This has solved all freezing issues for me. If anyone has issues with Dark Souls III freezing, try changing CPU affinity settings for the DS3 program in Task Manager while the game is running, in the Details section. Uncheck CPU 0 and see if symptoms persist or not.
+
+If that fixes the issue, this script will help by making it simpler to reproduce the fix without jumping through as many hoops.
+
+Just run the BAT file instead of launching the game through Steam.
