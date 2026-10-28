@@ -40,3 +40,9 @@ Tip: keep the .bat and .ps1 in the same folder. For a desktop icon, right-click 
 ## Checking it worked
 
 In Task Manager, open Details, right-click DarkSoulsIII.exe, and choose Set affinity. CPU 0 should be unticked.
+
+<br>
+
+This software is provided as-is.
+
+Use at your own risk.
